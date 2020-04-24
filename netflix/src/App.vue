@@ -9,7 +9,7 @@
 <script>
 
 //import testeGui from './componentes/teste.vue';
-import Categoria from './componentes/Categoria.vue';
+import Categoria from "./components/Categoria"
 export default {
   name: 'app',
   components:{
